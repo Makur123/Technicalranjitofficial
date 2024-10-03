@@ -25,7 +25,3 @@
   <img height="auto" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamMakurDhuor&theme=dark&hide_border=false" alt="Top languages" />
 </p>
 
-## Languages and Tools
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Arduino</a>
-</p>
